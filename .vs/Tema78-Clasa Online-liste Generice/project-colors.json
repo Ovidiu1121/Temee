@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c02bbdf1-23cc-455d-83b6-2ce823042a21": {
+      "ProjectGuid": "c02bbdf1-23cc-455d-83b6-2ce823042a21",
+      "DisplayName": "Tema78-Clasa Online-liste Generice",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

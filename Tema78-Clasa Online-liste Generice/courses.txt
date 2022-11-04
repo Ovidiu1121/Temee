@@ -1,0 +1,9 @@
+11 engleza 1
+22 matematica 5
+33 chimie 3
+44 istorie 7
+55 geografie 10
+66 fizica 4
+77 sport 9
+88 informatica 2
+99 economie 5
